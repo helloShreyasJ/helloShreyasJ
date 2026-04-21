@@ -1,6 +1,6 @@
 # 💫 About me
 ---
-I'm a Software Development Student at Atlantic Technological University, Galway. I have a strong foundation in writing clean code and building cross-platform applications and web-apps. Beyond the code, I’m deeply invested in the human element of engineering. As Co-Chair of the ATU Software Development Society, I facilitate bi-weekly events aimed at translating complex technical concepts into accessible knowledge. I’m currently seeking mentorship and professional opportunities to build projects with real-world impact.
+I'm a Software Development Student at Atlantic Technological University, Galway with a strong foundation in writing clean code and building cross-platform applications and web-apps. Beyond the code. I’m currently seeking mentorship and professional opportunities to build projects with real-world impact.
 
 ### Tech Stack:
 
