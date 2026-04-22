@@ -1,6 +1,6 @@
 # 💫 About me
 ---
-I'm a Software Development Student at Atlantic Technological University, Galway with a strong foundation in writing clean code and building cross-platform applications and web-apps. Beyond the code. I’m currently seeking mentorship and professional opportunities to build projects with real-world impact.
+I'm a student at Atlantic Technological University, Galway pursuing a Bachelor's Degree in Computing in Software Development. Proven strong foundation in writing clean code and building cross-platform applications and web-apps. I’m currently seeking mentorship and professional opportunities to build projects with real-world impact.
 
 ### Tech Stack:
 
