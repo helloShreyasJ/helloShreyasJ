@@ -15,11 +15,5 @@ I'm a student at Atlantic Technological University, Galway pursuing a Bachelor's
 
 ---
 
-### Currently Working On:
-#### **🧟 Survival App (Ionic / Angular / TypeScript)**
-A cross-platform mobile application designed for inventory tracking and safe-zone mapping.
-
----
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helloshreyasj) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:G00440608@atu.ie)
